@@ -1,8 +1,7 @@
-y#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
-	cout<<"Hello Git!!";
-	cout<<"Learning Git";
+	cout<<"Hello Git";
 	cout<<"Today is Saturday";
 	return 0;
 }
